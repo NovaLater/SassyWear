@@ -1,0 +1,7 @@
+{
+"name": "Sassy Wear",
+"description": "The official stake pool of Sassy Wear",
+"ticker": "SASSY",
+"homepage": "https://www.sassywear.io",
+"extended": "https://raw.githubusercontent.com/NovaLater/cardano/main/extendedMetaData.json"
+}
